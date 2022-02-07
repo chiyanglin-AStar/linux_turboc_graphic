@@ -5,6 +5,8 @@ sudo apt-get install libsdl-image1.2 libsdl-image1.2-dev guile-2.0 guile-2.0-dev
 
 wget https://download-mirror.savannah.gnu.org/releases/libgraph/libgraph-1.0.2.tar.gz
 
+// above instructions , have moved to gitpod env 
+
 tar -xf libgraph-1.0.2.tar.gz
 
 cd libgraph-1.0.2
